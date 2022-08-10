@@ -94,6 +94,7 @@ To **install** or **update** nvm, you should run the [install script][2]. To do 
 ```sh
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 ```
+OR
 ```sh
 wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 ```
